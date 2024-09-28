@@ -1,0 +1,14 @@
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\bin\Debug\net8.0\412 Fizz Buzz.exe
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\bin\Debug\net8.0\412 Fizz Buzz.deps.json
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\bin\Debug\net8.0\412 Fizz Buzz.runtimeconfig.json
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\bin\Debug\net8.0\412 Fizz Buzz.dll
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\bin\Debug\net8.0\412 Fizz Buzz.pdb
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.AssemblyInfoInputs.cache
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.AssemblyInfo.cs
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.csproj.CoreCompileInputs.cache
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.dll
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\refint\412 Fizz Buzz.dll
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.pdb
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\412 Fizz Buzz.genruntimeconfig.cache
+C:\git\Leetcode Practice\Introduction problems\412 Fizz Buzz\obj\Debug\net8.0\ref\412 Fizz Buzz.dll

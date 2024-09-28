@@ -1,0 +1,14 @@
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\bin\Debug\net8.0\RichestCustomerWealth.exe
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\bin\Debug\net8.0\RichestCustomerWealth.deps.json
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\bin\Debug\net8.0\RichestCustomerWealth.runtimeconfig.json
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\bin\Debug\net8.0\RichestCustomerWealth.dll
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\bin\Debug\net8.0\RichestCustomerWealth.pdb
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.AssemblyInfoInputs.cache
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.AssemblyInfo.cs
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.csproj.CoreCompileInputs.cache
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.dll
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\refint\RichestCustomerWealth.dll
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.pdb
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\RichestCustomerWealth.genruntimeconfig.cache
+C:\git\Leetcode Practice\Introduction problems\1672 Richest Customer Wealth\RichestCustomerWealth\obj\Debug\net8.0\ref\RichestCustomerWealth.dll

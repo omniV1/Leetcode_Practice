@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1342 Number of Steps to Reduce a Number to Zero/1.0.0": {
+        "runtime": {
+          "1342 Number of Steps to Reduce a Number to Zero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1342 Number of Steps to Reduce a Number to Zero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

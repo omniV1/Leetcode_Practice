@@ -1,0 +1,14 @@
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.AssemblyInfoInputs.cache
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.AssemblyInfo.cs
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.csproj.CoreCompileInputs.cache
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\bin\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.exe
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\bin\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.deps.json
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\bin\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.runtimeconfig.json
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\bin\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.dll
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\bin\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.pdb
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.dll
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\refint\1342 Number of Steps to Reduce a Number to Zero.dll
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.pdb
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\1342 Number of Steps to Reduce a Number to Zero.genruntimeconfig.cache
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\obj\Debug\net8.0\ref\1342 Number of Steps to Reduce a Number to Zero.dll

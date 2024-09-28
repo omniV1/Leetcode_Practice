@@ -1,0 +1,14 @@
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.AssemblyInfoInputs.cache
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.AssemblyInfo.cs
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.csproj.CoreCompileInputs.cache
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\bin\Debug\net8.0\BitWiseApproach.exe
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\bin\Debug\net8.0\BitWiseApproach.deps.json
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\bin\Debug\net8.0\BitWiseApproach.runtimeconfig.json
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\bin\Debug\net8.0\BitWiseApproach.dll
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\bin\Debug\net8.0\BitWiseApproach.pdb
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.dll
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\refint\BitWiseApproach.dll
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.pdb
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\BitWiseApproach.genruntimeconfig.cache
+C:\git\Leetcode Practice\Introduction problems\1342 Number of Steps to Reduce a Number to Zero\BitWiseApproach\obj\Debug\net8.0\ref\BitWiseApproach.dll
